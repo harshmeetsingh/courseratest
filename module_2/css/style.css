@@ -27,8 +27,8 @@ div .roro {
 .topic1{
   background: pink;
   width: 40%;
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
   float :right;
  text-align: center;
   
@@ -38,8 +38,8 @@ div .roro {
 .topic2{
   background: red;
   width: 40%;
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
   float :right;
   clear :left;
   font-size: 26px;
@@ -50,8 +50,8 @@ div .roro {
 .topic3{
   background: orange;
   width: 40%;
-  border-bottom: 2px solid black;
-  border-left: 2px solid black;
+  border-bottom: 1px solid black;
+  border-left: 1px solid black;
   float :right;
   clear :left;
   font-size: 26px;
@@ -78,7 +78,7 @@ div .roro {
     float: left;
       background: grey;
     
-     border:2px solid black; 
+     border:1px solid black; 
      
     
      
@@ -131,7 +131,7 @@ div .roro {
     float: left;
      background: grey;
 
-     border:2px solid black; 
+     border:1px solid black; 
      
      
      
@@ -184,7 +184,7 @@ div .roro {
     float: left;
     background: grey;
     
-     border:2px solid black; 
+     border:1px solid black; 
      
      
     
